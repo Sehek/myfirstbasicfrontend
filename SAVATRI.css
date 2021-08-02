@@ -1,0 +1,28 @@
+#background_image {    
+    background: url(imgsub/backimg.jpg);
+    width: 100%;
+    height: 90%;
+
+}
+
+#footer{text-align: center; color: black; padding: 11px; padding-bottom: 5px; }
+
+#welcome{ font-weight: bolder; padding-top: 60px; padding-left: 15px; font-size: x-large;font-family: roboto;}
+#service {color: #2980B9; font-size: large ; padding-left: 15px; font-family: roboto; font-weight:bold;  }
+
+.container-fluid{background-color: grey;}
+
+.navbarbackground{background-color:#2980B9;}
+
+.colorplus {color: red;}
+
+.btnpos{margin-top: 10px; margin-left: 12px; border: none; }
+
+.appbtn{ margin-top: 20px; margin-left: 30px;border-style: none;}
+.col {color: #2980B9; font-size: large; font-weight: bolder;}
+
+b {color:white;}
+
+h4{color: #2980B9;}
+
+#CAP {text-align: center;}
